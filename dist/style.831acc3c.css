@@ -21,6 +21,8 @@ img {
 
 body {
   background-color: #eee;
+  background-image: url("background.f9e35fbb.jpeg");
+  background-size: cover;
 }
 
 .guide-header {
@@ -60,7 +62,7 @@ body {
 
 .search-form > .search-button {
   color: white;
-  background-color: #f08d34;
+  background-color: #52b9db;
   border: none;
   border-radius: 4px;
   padding: 8px 22px;
@@ -93,6 +95,7 @@ body {
 
 .guide-main .board-common {
   width: 160px;
+  background-color: white;
   border: 1px solid #dddddd;
   border-radius: 20px;
   display: flex;
@@ -141,6 +144,7 @@ body {
 
 .guide-main .board-add {
   width: 160px;
+  background-color: white;
   border: 1px solid #dddddd;
   border-radius: 20px;
   display: flex;
@@ -168,4 +172,4 @@ body {
 }
 
 
-/*# sourceMappingURL=style.6df8edd0.css.map */
+/*# sourceMappingURL=style.831acc3c.css.map */
